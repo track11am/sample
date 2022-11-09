@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.organization=track11am \
+  -Dsonar.projectKey=track11am_sample \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=https://sonarcloud.io
